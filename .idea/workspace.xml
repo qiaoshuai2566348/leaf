@@ -2,30 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d878a3c4-23d0-4392-a2fd-3cc0fe5341e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/chanrpc/chanrpc.go" beforeDir="false" afterPath="$PROJECT_DIR$/chanrpc/chanrpc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chanrpc/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/chanrpc/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster/cluster.go" beforeDir="false" afterPath="$PROJECT_DIR$/cluster/cluster.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/console/command.go" beforeDir="false" afterPath="$PROJECT_DIR$/console/command.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/console/console.go" beforeDir="false" afterPath="$PROJECT_DIR$/console/console.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/mongodb/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongodb/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/mongodb/mongodb.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongodb/mongodb.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gate/gate.go" beforeDir="false" afterPath="$PROJECT_DIR$/gate/gate.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/go.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/go.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leaf.go" beforeDir="false" afterPath="$PROJECT_DIR$/leaf.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/log/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/module.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/module.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/skeleton.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/skeleton.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/json/json.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/json/json.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/protobuf/protobuf.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/protobuf/protobuf.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/tcp_client.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/tcp_client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/tcp_conn.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/tcp_conn.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/tcp_server.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/tcp_server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/ws_client.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/ws_client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/ws_conn.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/ws_conn.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/ws_server.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/ws_server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TUTORIAL_EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/TUTORIAL_EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TUTORIAL_ZH.md" beforeDir="false" afterPath="$PROJECT_DIR$/TUTORIAL_ZH.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recordfile/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/recordfile/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timer/timer.go" beforeDir="false" afterPath="$PROJECT_DIR$/timer/timer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recordfile/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recordfile/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timer/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/timer/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/example_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,5 +36,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="162" width="1026" height="784" key="find.popup" timestamp="1614873399440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="162" width="1026" height="784" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614873399440" />
   </component>
 </project>
